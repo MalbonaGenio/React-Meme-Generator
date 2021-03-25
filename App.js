@@ -1,7 +1,6 @@
-import "./styles.css";
 import React from "react";
-import Header from "./Header.js";
-import MemeGenerator from "./MemeGenerator.js";
+import Header from "./Header";
+import MemeGenerator from "./MemeGenerator";
 
 function App() {
   return (

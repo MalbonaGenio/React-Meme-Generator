@@ -5,8 +5,9 @@ class MemeGenerator extends Component {
     super();
     this.state = {};
   }
+
   render() {
-    return <h1>meme section</h1>;
+    return <h1>MEME GENERATOR SECTION</h1>;
   }
 }
 
